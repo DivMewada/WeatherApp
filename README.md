@@ -1,0 +1,2 @@
+- Weather app that uses OpenWeatherStack to fetch weather details for entered city.
+- This app uses SwiftUI framework
